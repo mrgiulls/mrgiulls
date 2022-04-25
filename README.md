@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrgiulls
 - 👀 I’m interested in developer full stack
-- 🌱 I’m currently learning basic command linux, shell, lenguage C and python
+- 🌱 I’m currently learning basic command linux, shell, lenguage C, python, javascript, CSS
 - 💞️ I’m looking to collaborate on big companys 
 - 📫 How to reach me: Correo: Giulianofm3@gmail.com // [LinkedIn ](https://www.linkedin.com/in/giuliano-flores-mesias/)// Twitter: @Mrgiulls
 
